@@ -1,6 +1,3 @@
-# Porto3
-Churn Prediction Classification with Streamlit
-
 # Porto3 - Churn Prediction Application
 
 Porto3 adalah aplikasi web yang dibangun dengan **Streamlit** untuk memprediksi apakah seorang pelanggan akan mengalami churn (berhenti menjadi pelanggan) atau tidak. Aplikasi ini menggunakan model machine learning yang telah dilatih untuk memprediksi churn berdasarkan data pelanggan.
