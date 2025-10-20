@@ -49,4 +49,5 @@ if button:
     label_pred = label_map[pred[0]]
     label_proba = pred_proba[0][pred[0]]
     output = f"Customer diklasifikasikan sebagai {label_proba:.0%} {label_pred}"
+
     st.write(output)
